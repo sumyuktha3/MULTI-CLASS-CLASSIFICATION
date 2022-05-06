@@ -1,4 +1,6 @@
-# MULTI-CLASS-CLASSIFICATION
+### EX NO: 03
+### DATE:
+# <p align="center"> MULTI-CLASS-CLASSIFICATION<p/>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
@@ -20,11 +22,17 @@ Scores from the last layer are passed through a SoftMax layer. The SoftMax layer
 
 
 ## Algorithm
+
 1.Import necessary libraries from packages.
+
 2.Assign x,y values from the given dataset by sklearn.
+
 3.Count the number of key-value pairs in the datasets using counter libraries.
+
 4.Plot the x and y values in the chart using mathplotlib.pyplot
+
 5.Label the values of x and y axis and add title to the graph .
+
 6.Save the file and execute the program.
 
 ## Program:
